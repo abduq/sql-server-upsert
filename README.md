@@ -1,4 +1,4 @@
-# sql-server-upsert
+# SQL Server UPSERT statment
 
 An upsert statement for sql server. 
 
